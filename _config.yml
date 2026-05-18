@@ -1,6 +1,6 @@
 # main text of home
 title: Duc Nguyen Nang
-bio: A Person who rides clouds and deploys dreams.
+bio: A person who rides clouds and deploys dreams.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: andyz
+twitter: andyz
+instagram: andyz
+linkedin: andy.102
+github: andyz
+email: [ducnn.work@gmail.com]
 
 authors:
   johndoe:
